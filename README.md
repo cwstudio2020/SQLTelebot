@@ -18,7 +18,7 @@
 ## Installation
 
 1. **Install SQLMessenger**: To use SQLTelebot, you must first install SQLMessenger. You can find more details on how to get and set up SQLMessenger at [SQLMessenger Website](https://www.sqlmessenger.com).
-2. **Install SQLTelebot**: Once you have SQLMessenger set up, you can install the SQLTelebot plugin. Follow the instructions in the detailed documentation for installation and configuration: [Installing SQLTelebot]([https://www.sqlmessenger.com/manual/plugin-2-index.htm](https://www.sqlmessenger.com/manual/plugin-2-install.htm#install)).
+2. **Install SQLTelebot**: Once you have SQLMessenger set up, you can install the SQLTelebot plugin. Follow the instructions in the detailed documentation for installation and configuration: [Installing SQLTelebot](https://www.sqlmessenger.com/manual/plugin-2-install.htm).
 
 ## License
 
