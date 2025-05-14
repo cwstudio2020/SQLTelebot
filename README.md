@@ -22,7 +22,7 @@
 
 ## License
 
-SQLTelebot is **free** and open-source, licensed under the **MIT License**. You are free to use, modify, and distribute this software under the terms of the MIT License.
+SQLTelebot is **free** , licensed under the **MIT License**. You are free to use, and distribute this software under the terms of the MIT License.
 
 ## Documentation
 
